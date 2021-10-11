@@ -49,7 +49,7 @@
                 <mxCell id="28" value="id INT&#10;&#10;transaction_history_id INT&#10;&#10;item_id INT" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;sketch=1;" parent="27" vertex="1">
                     <mxGeometry y="30" width="270" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;sketch=1;" parent="1" vertex="1">
+                <mxCell id="29" value="item_item_categorles" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;sketch=1;" parent="1" vertex="1">
                     <mxGeometry x="80" y="560" width="280" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="30" value="・item_category_id INT" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;sketch=1;" parent="29" vertex="1">
